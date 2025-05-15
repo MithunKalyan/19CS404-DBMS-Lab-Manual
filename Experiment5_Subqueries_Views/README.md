@@ -1,6 +1,4 @@
 # Experiment 5: Subqueries and Views
-## Name: Reddineni Adarsh Chowdary
-## Reg.no: 212223040166
 ## AIM
 To study and implement subqueries and views.
 
